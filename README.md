@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Badis Jlassi<br>Computer science student passionate about desktop application development and backend solutions using C#. Enthusiastic about automating tasks and processes with Python. On a journey to code, create, and contribute to the digital world.</p>
+<p align="left">I'm Badis Jlassi<br>Computer science student passionate about desktop application development and backend solutions using C# and Java. Enthusiastic about automating tasks and processes with Python. On a journey to code, create, and contribute to the digital world.</p>
 
 ###
 
