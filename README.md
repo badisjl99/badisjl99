@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://img.freepik.com/free-photo/person-using-ai-tool-job_23-2150714239.jpg?w=1380&t=st=1707233105~exp=1707233705~hmac=3f1b0f79a153df62ce2d6ef63ffe33a0c927a243e1599ecefd365e8a5e8f7a27"  />
 </div>
 
 ###
