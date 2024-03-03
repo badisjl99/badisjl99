@@ -29,7 +29,8 @@
 
 ###
 
-<p align="left">I'm Badis Jlassi<br>Computer science student passionate about desktop application development and backend solutions using C# and Java. Enthusiastic about automating tasks and processes with Python. On a journey to code, create, and contribute to the digital world.</p>
+<p align="left">I'm Badis Jlassi<br>
+Computer science student passionate about web scraping, React development, and backend solutions using Node.js. Enthusiastic about automating tasks and processes with scripting languages like Python. Experienced in building desktop applications using C# and eager to explore new technologies and frameworks.</p>
 
 ###
 
