@@ -65,7 +65,7 @@ Computer science student passionate about web scraping, React development, and b
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=badisjl99&hide_border=true&border_radius=5.7&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=badisjl99&theme=transparent&hide_border=true&border_radius=5.7&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
 
