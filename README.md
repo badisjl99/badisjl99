@@ -67,9 +67,7 @@ Computer science student passionate about web scraping, React development, and b
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=badisjl99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/badisjl99/count.svg?"  />
-</div>
+
 
 ###
 
