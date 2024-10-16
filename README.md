@@ -30,7 +30,7 @@
 ###
 
 <p align="left">I'm Badis Jlassi<br>
-Computer science student passionate about web scraping, React development, and backend solutions using Node.js. Enthusiastic about automating tasks and processes with scripting languages like Python. Experienced in building desktop applications using C# and eager to explore new technologies and frameworks.</p>
+Computer science student passionate about web scraping, Web development, and backend solutions using Spring || Node.js. Enthusiastic about automating tasks and processes with scripting languages like Python. Experienced in building desktop applications using C# and eager to explore new technologies and frameworks.</p>
 
 ###
 
